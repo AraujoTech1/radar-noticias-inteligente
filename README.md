@@ -22,7 +22,7 @@ O **Radar de Notícias Inteligente** é uma ferramenta desenvolvida para analisa
 - **Teste de depuração:** Identifica erros no funcionamento da análise de URLs.
 - **Teste de funcionamento:** Garante que as palavras-chave sejam extraídas corretamente.
 - **Captura do teste realizado:**
-<img src="./imagem/img1.png" alt="Captura da tela" width="600px">
+<img src="./imagem/img1.png" alt="Captura da tela" width="800px">
 
 ## Tecnologias e Linguagens  
 ![HTML5](https://img.shields.io/badge/-HTML5-556B2F?style=flat&logo=html5&logoColor=white)
