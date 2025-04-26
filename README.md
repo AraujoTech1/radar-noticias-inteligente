@@ -19,9 +19,9 @@ O **Radar de Notícias Inteligente** é uma ferramenta desenvolvida para analisa
 - Gera **gráficos interativos** mostrando a recorrência de termos.
 
 ## Testes de Software
-- **Teste de depuração:** Identifica erros no funcionamento da análise de URLs.
-- **Teste de funcionamento:** Garante que as palavras-chave sejam extraídas corretamente.
-- **Captura do teste realizado:**
+- [x] **Teste de depuração:** Identifica erros no funcionamento da análise de URLs.
+- [x] **Teste de funcionamento:** Garante que as palavras-chave sejam extraídas corretamente.
+- [x] **Captura do teste realizado:**
 <img src="./imagem/img1.png" alt="Captura da tela" width="800px">
 
 ## Tecnologias e Linguagens  
